@@ -52,10 +52,8 @@ pip install -r requirements.txt
 python accelerate_llama_control.py \
     --model_name "Qwen/Qwen3-1.7B-Base" \
     --dataset "lmms-lab/Math10K" \
-    --lora_type "ndlinear" \
     --output_dir "./output_qwen3_1.7B_math10k_ndlinear_lora" \
     --target_modules "q_proj,k_proj,v_proj,o_proj,gate_proj,up_proj,down_proj" \
-    --lora_r 1 \
     --lora_alpha 1 \
     --epochs 2 \
     --batch_size 1 \
