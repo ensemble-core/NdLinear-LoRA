@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ## Quickstart: Qwen3 Finetuning Example
 
-python accelerate_llama_control.py \
+python ndlinear_lora_finetune.py \
     --model_name "Qwen/Qwen3-1.7B-Base" \
     --dataset "lmms-lab/Math10K" \
     --output_dir "./output_qwen3_1.7B_math10k_ndlinear_lora" \
