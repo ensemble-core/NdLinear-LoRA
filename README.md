@@ -63,6 +63,15 @@ python ndlinear_lora_finetune.py \
 
 ---
 
+## NdLinear-LoRA Finetuned Models
+
+Qwen3-1.7B-Math10K-NdLinearLoRA: https://huggingface.co/ensembleai/Qwen3-1.7B-Math10K-NdLinearLoRA
+Qwen3-1.7B-CSQA-NdLinearLoRA: https://huggingface.co/ensembleai/Qwen3-1.7B-CSQA-NdLinearLoRA
+Llama-3-8B-Math10K-NdLinearLoRA: https://huggingface.co/ensembleai/Llama-3-8B-Math10K-NdLinearLoRA
+Llama-3-8B-CSQA-NdLinearLoRA: https://huggingface.co/ensembleai/Llama-3-8B-CSQA-NdLinearLoRA
+
+---
+
 ## Related Work
 
 Core NdLinear repo: https://github.com/ensemble-core/NdLinear
