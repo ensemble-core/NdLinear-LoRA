@@ -42,7 +42,9 @@ NdLinear-LoRA replaces the traditional LoRA `(AxB)` bottleneck with an **N-dimen
 ## Installation
 
 git clone https://github.com/ensemble-core/NdLinear-LoRA.git
+
 cd NdLinear-LoRA
+
 pip install -r requirements.txt
 
 ---
@@ -78,6 +80,7 @@ https://huggingface.co/ensembleai/Llama-3-8B-CSQA-NdLinearLoRA
 ## Related Work
 
 Core NdLinear repo: https://github.com/ensemble-core/NdLinear
+
 NdLinear paper: https://arxiv.org/abs/2503.17353
 
 ---
