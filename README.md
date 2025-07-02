@@ -66,8 +66,11 @@ python ndlinear_lora_finetune.py \
 ## NdLinear-LoRA Finetuned LLM
 
 https://huggingface.co/ensembleai/Qwen3-1.7B-Math10K-NdLinearLoRA
+
 https://huggingface.co/ensembleai/Qwen3-1.7B-CSQA-NdLinearLoRA
+
 https://huggingface.co/ensembleai/Llama-3-8B-Math10K-NdLinearLoRA
+
 https://huggingface.co/ensembleai/Llama-3-8B-CSQA-NdLinearLoRA
 
 ---
